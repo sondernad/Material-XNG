@@ -1,10 +1,10 @@
 # Material-XNG Theme (Inspired by Google's UI)
-
+See the full code in [Codeberg](https://codeberg.org/sondernad/Material-XNG)
 ## Steps:
 (This repo does not include SearXNG main files)
 1) Clone the repo using `git clone https://codeberg.org/sondernad/searxng-custom-theme.git` 
-2) Add your custom links in the [base.html](./base.html#L59/) dropdown menu
-3) Go to searxng's compose file and mount the files (see [compose file](./docker-compose.yaml#L16))
+2) Add your custom links in the [base.html](https://codeberg.org/sondernad/Material-XNG/src/branch/main/base.html#L59) dropdown menu
+3) Go to searxng's compose file and mount the files (see [compose file](https://codeberg.org/sondernad/Material-XNG/src/branch/main/docker-compose.yaml#L16))
 4) Make sure to replace `/your/custom/folder/` to the folder where you cloned the repo
 5) Start searxng using `docker compose up -d`
 
