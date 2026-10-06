@@ -62,4 +62,4 @@ yeah that's it i don't know what else to add so enjoy!
 ## TODO
 Fix the image search result layout since it's buggy and all over the place (this would probably be outside of theming but why not)
 
-![:prabowotolongjanganpidato](https://count.getloli.com/@prabowotolongjanganpidato?theme=asoul)
+![:prabowotolongjanganpidatoaduh](https://count.getloli.com/@prabowotolongjanganpidatoaduh?theme=asoul)
